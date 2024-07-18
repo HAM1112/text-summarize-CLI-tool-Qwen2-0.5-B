@@ -23,14 +23,15 @@ ollama run qwen2:0.5b
 
 ### Directory setup
 
-## Unzip and change to the Bayesian directory
 
-After unzipping , change to that directory.
+## Clone this repository
 
-```bash
-cd Bayesian/
+clone this repository and change directory
+
 ```
-
+git clone https://github.com/HAM1112/text-summarize-CLI-tool-Qwen2-0.5-B.git
+cd text-summarize-CLI-tool-Qwen2-0.5-B
+```
 
 
 ## Create a virtual environment
