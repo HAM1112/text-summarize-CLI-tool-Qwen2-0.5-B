@@ -72,5 +72,3 @@ python summarize.py -f "text_you_want_to_summarize"
 > Rember to enclose your text in qoutes.
 
 
-
-Navigate to `http://127.0.0.1:8000/` in your web browser.
