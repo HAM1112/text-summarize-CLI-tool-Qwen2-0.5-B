@@ -1,4 +1,4 @@
-### Install Ollama and start Qwen2 0.5b model
+# Install Ollama and start Qwen2 0.5b model
 
 
 ## Install Ollama in your device
@@ -21,7 +21,7 @@ ollama run qwen2:0.5b
 >
 
 
-### Directory setup
+# Directory setup
 
 
 ## Clone this repository
